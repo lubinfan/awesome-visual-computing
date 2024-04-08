@@ -1,6 +1,6 @@
 # Awesome Visual Computing
 
-A collection of awesome visual computing resources, inspired by [awesome-computer-viesion](https://github.com/jbhuang0604/awesome-computer-vision)
+A curated list of awesome visual computing resources, inspired by [awesome-computer-viesion](https://github.com/jbhuang0604/awesome-computer-vision)
 
 ## Table of Contents
 
@@ -12,6 +12,7 @@ A collection of awesome visual computing resources, inspired by [awesome-compute
  - [Datasets](#datasets)
 
  ## Awesome Lists
+ - [Awesome Computer Graphics](https://github.com/luisdnsantos/awesome-computer-graphics)
  - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
  - [Awesome NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
  - [Awesome 3D Gaussian Splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
