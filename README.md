@@ -2,7 +2,6 @@
 
 A collection of awesome visual computing resources, inspired by [awesome-computer-viesion](https://github.com/jbhuang0604/awesome-computer-vision)
 
-
 ## Table of Contents
 
 - [Awesome Lists](#awesome-lists)
